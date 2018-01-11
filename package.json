@@ -1,0 +1,68 @@
+{
+  "name": "system300-organization-panel",
+  "version": "1.0.0",
+  "description": "Vue.js, Webpack, Browsersync",
+  "author": "mai@s-c300.com",
+  "private": true,
+  "scripts": {
+    "dev": "webpack-dev-server --inline --progress --config config/webpack.dev.conf.js",
+    "prod": "node config/build.js"
+  },
+  "dependencies": {
+    "drift-zoom": "^1.2.0",
+    "jquery": "^3.2.1",
+    "moment": "^2.20.1",
+    "vue": "^2.5.13",
+    "vue-resource": "^1.3.5",
+    "vue-router": "^3.0.1",
+    "vue-yandex-maps": "^0.6.2",
+    "vuetify": "^0.17.5",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "browser-sync": "^2.21.0",
+    "browser-sync-webpack-plugin": "^1.2.0",
+    "chalk": "^2.3.0",
+    "compression-webpack-plugin": "^1.1.3",
+    "copy-webpack-plugin": "^4.3.1",
+    "css-loader": "^0.28.7",
+    "eventsource-polyfill": "^0.9.6",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.6",
+    "friendly-errors-webpack-plugin": "^1.6.1",
+    "html-webpack-plugin": "^2.30.1",
+    "node-notifier": "^5.1.2",
+    "optimize-css-assets-webpack-plugin": "^3.2.0",
+    "ora": "^1.3.0",
+    "portfinder": "^1.0.13",
+    "postcss-import": "^11.0.0",
+    "postcss-loader": "^2.0.9",
+    "rimraf": "^2.6.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "url-loader": "^0.6.2",
+    "vue-loader": "^13.6.1",
+    "vue-style-loader": "^3.0.3",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0",
+    "webpack-bundle-analyzer": "^2.9.1",
+    "webpack-dev-server": "^2.9.7",
+    "webpack-merge": "^4.1.1"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 0%",
+    "last 3 versions",
+    "not ie <= 8"
+  ]
+}

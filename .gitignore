@@ -1,0 +1,17 @@
+*.log
+*.sln
+.idea
+*.suo
+*.Idea
+*.lprof
+*.ntvs*
+*.njsproj
+*.DS_Store
+.fseventsd
+.~lock.*
+.vscode
+.cache/
+.idea/
+.tmp/
+node_modules/
+dist/

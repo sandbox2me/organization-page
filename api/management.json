@@ -1,0 +1,130 @@
+[
+    {
+        "name"     : "Иванов Иван Иванович",
+        "position" : "Генеральный Директор",
+        "image"    : "test-manager1.jpg",
+        "contacts" : {
+            "phones" : [
+                {
+                    "type"   : "work",
+                    "code"   : "999",
+                    "number" : "2221133",
+                    "add"    : "111"
+                },
+                {
+                    "type"   : "mobile",
+                    "code"   : "999",
+                    "number" : "2221133"
+                }
+            ],
+            "email" : [
+                {
+                    "type" : "work",
+                    "mail" : "work@ex.com"
+                }
+            ]
+        },
+        "workTime" : [
+            {
+                "day"      : "Понедельник",
+                "timeFrom" : "10:00",
+                "timeTill" : "19:00"
+            },
+            {
+                "day"      : "Четверг",
+                "timeFrom" : "15:30",
+                "timeTill" : "22:30"
+            }
+        ]
+    },
+    {
+        "name"     : "Иванова Алла Ивановна",
+        "position" : "Главный бухгалтер",
+        "image"    : "test-manager2.jpg",
+        "contacts" : {
+            "phones" : [
+                {
+                    "type"   : "work",
+                    "code"   : "999",
+                    "number" : "2221133",
+                    "add"    : "222"
+                }
+            ],
+            "email" : [
+                {
+                    "type" : "work",
+                    "mail" : "work@ex.com"
+                }
+            ]
+        },
+        "workTime" : [
+            {
+                "day"      : "Вторник",
+                "timeFrom" : "10:00",
+                "timeTill" : "19:00"
+            },
+            {
+                "day"      : "Пятница",
+                "timeFrom" : "15:30",
+                "timeTill" : "22:30"
+            }
+        ]
+    },
+    {
+        "name"     : "Иванов Петр Иванович",
+        "position" : "Главный инженер",
+        "image"    : "test-manager3.jpg",
+        "contacts" : {
+            "phones" : [
+                {
+                    "type"   : "mobile",
+                    "code"   : "999",
+                    "number" : "2221133"
+                },
+                {
+                    "type"   : "work",
+                    "code"   : "999",
+                    "number" : "2221133",
+                    "add"    : "333"
+                }
+            ],
+            "email" : [
+                {
+                    "type" : "work",
+                    "mail" : "work@ex.com"
+                },
+                {
+                    "type" : "personal",
+                    "mail" : "personal@ex.com"
+                }
+            ]
+        }
+    },
+    {
+        "name"     : "Иванова Свелана Ивановна",
+        "position" : "Секретарь",
+        "image"    : "test-manager4.jpg",
+        "contacts" : {
+            "phones" : [
+                {
+                    "type"   : "work",
+                    "code"   : "999",
+                    "number" : "2221133",
+                    "add"    : "444"
+                },
+                {
+                    "type"   : "fax",
+                    "code"   : "999",
+                    "number" : "2221133",
+                    "add"    : "555"
+                }
+            ],
+            "email" : [
+                {
+                    "type" : "work",
+                    "mail" : "work@ex.com"
+                }
+            ]
+        }
+    }
+]

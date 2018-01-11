@@ -1,0 +1,95 @@
+[
+    {
+        "type"  : "Учредительные документы",
+        "files" : [
+            {
+                "name": "Устав организации",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Свидетельство о постановке на учет в налоговом органе (ИНН)",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Свидетельство о государственной регистрации юридического лица (ОГРН)",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            }
+        ]
+    },
+    {
+        "type"  : "Договоры",
+        "files" : [
+            {
+                "name": "Документ 1 от 21.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 2 от 22.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 3 от 23.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 4 от 24.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 5 от 25.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 6 от 26.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            }
+        ]
+    },
+    {
+        "type"  : "Финансовая отчетность",
+        "files" : [
+            {
+                "name": "Свод начислений и оплат по услугам за период Январь 2017 - Март 2017 (1 квартал 2017 года)",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            }
+        ]
+    },
+    {
+        "type"  : "Протоколы",
+        "files" : [
+            {
+                "name": "Документ 1 от 21.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 2 от 22.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 3 от 23.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 4 от 24.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 5 от 25.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            },
+            {
+                "name": "Документ 6 от 26.10.2012",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            }
+        ]
+    },
+    {
+        "type"  : "Использование общего имущества",
+        "files" : [
+            {
+                "name": "Общее имущество собственников помещений мкд иными лицами не используется",
+                "link": "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+            }
+        ]
+    }
+]

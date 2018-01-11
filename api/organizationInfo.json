@@ -1,0 +1,194 @@
+{
+    "app" : {
+        "name"       : "ООО \"Ёлки-Иголки\"",
+        "dark"       : false,
+        "appleHref"  : "https://itunes.apple.com/us/app/domovoj/id634914477",
+        "googleHref" : "https://play.google.com/store/apps/details?id=com.otdel.domovoy.aC300",
+        "lkHref"     : "https://lk.c300.me"
+    },
+    "logo" : {
+        "enabled"   : true,
+        "image"     : "test-logo.jpg",
+        "height"    : "150",
+        "text"      : "Текст логотипа",
+        "textColor" : "#FFFFFF"
+    },
+    "parallax" : {
+        "enabled"   : true,
+        "image"     : "test-parallax.jpg",
+        "height"    : "500",
+        "text"      : "Заголовок",
+        "subText"   : "Текст описания заголовка",
+        "textColor" : "#FFFFF"
+    },
+    "requisites" : {
+        "fullName"  : "Общество с ограниченной ответственностью \"Ёлки-Иголки\"",
+        "shortName" : "ООО \"Ёлки-Иголки\"",
+        "kpp"       : "888888888",
+        "okopf"     : "3 33 33",
+        "inn"      : {
+            "account"     : "7777777777",
+            "dateOfIssue" : "2017-12-11T00:00:00",
+            "registered"  : "Межрайонная инспекция Федеральной Налоговой службы №33 по Санкт-Петербургу"
+        },
+        "ogrn"      : {
+            "account"     : "1111111111111",
+            "dateOfIssue" : "2017-12-11T00:00:00",
+            "registered"  : "Межрайонная инспекция Федеральной Налоговой службы №33 по Санкт-Петербургу"
+        }
+    },
+    "correspondenceAddress" : {
+        "address"   : "195000, Санкт-Петербург, Бульвар Красных зорь, 16"
+    },
+    "legalAddress" : {
+        "address"   : "195000, Санкт-Петербург, Бульвар Красных зорь, 13"
+    },
+    "actualAddress" : {
+        "address" : "195000, Санкт-Петербург, Бульвар Красных зорь, 11",
+        "map" : [
+            "59.7713",
+            "30.5448"
+        ]
+    },
+    "bank" : {
+        "name"          : "СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО \"СБЕРБАНК ШИШЕК\"",
+        "bik"           : "444444444",
+        "correspondent" : "55555555555555555555",
+        "checking"      : "99999999999999999999"
+    },
+    "contacts" : {
+        "phones" : [
+            {
+                "type"   : "work",
+                "code"   : "999",
+                "number" : "2221133"
+            },
+            {
+                "type"   : "mobile",
+                "code"   : "999",
+                "number" : "2221133"
+            },
+            {
+                "type"   : "fax",
+                "code"   : "999",
+                "number" : "2221133",
+                "add"    : "555"
+            }
+        ],
+        "email"   : "organization@ex.com",
+        "webSite" : "http://organization.ru"
+    },
+    "licenses" : [
+        {
+            "name"  : "Лицензия 1",
+            "desc"  : "<p>Выдана: 22.22.2222</p><p>Кому выдана: ________</p><p>Кем выдана: ________</p>",
+            "image" : "test-license-1.jpg"
+        },
+        {
+            "name"  : "Лицензия 1 (обратная сторона)",
+            "desc"  : "<p>Выдана: 22.22.2222</p><p>Кому выдана: ________</p><p>Кем выдана: ________</p>",
+            "image" : "test-license-2.jpg"
+        }
+    ],
+    "certificates" : [
+        {
+            "name"  : "Сертификат 1",
+            "desc"  : "<p>Выдана: 22.22.2222</p><p>Кому выдана: ________</p><p>Кем выдана: ________</p>",
+            "image" : "test-certificate-1.jpg"
+        },
+        {
+            "name"  : "Сертификат 1 (обратная сторона)",
+            "desc"  : "<p>Выдана: 22.22.2222</p><p>Кому выдана: ________</p><p>Кем выдана: ________</p>",
+            "image" : "test-certificate-2.jpg"
+        }
+    ],
+    "services" : [
+        {
+            "name": "Диспетчерская служба",
+            "workTime" : {
+                "dates"   : [
+                    {
+                        "day"      : "Вторник",
+                        "timeFrom" : "10:00",
+                        "timeTill" : "19:00",
+                        "lunch"    : {
+                            "timeFrom" : "13:00",
+                            "timeTill" : "15:00"
+                        }
+                    },
+                    {
+                        "day"      : "Пятница",
+                        "timeFrom" : "15:30",
+                        "timeTill" : "22:30",
+                        "lunch"    : {
+                            "timeFrom" : "17:00",
+                            "timeTill" : "19:00"
+                        }
+                    }
+                ]
+            },
+            "address" : {
+                "city"   : "Санкт-Петербург",
+                "street" : "Бульвар Красных зорь, 10",
+                "map"  : [
+                    "59.8713",
+                    "30.4448"
+                ]
+            }
+        },
+        {
+            "name": "Бухгалтерия",
+            "workTime" : {
+                "dates"   : [
+                    {
+                        "day"      : "Понедельник",
+                        "timeFrom" : "10:00",
+                        "timeTill" : "19:00",
+                        "lunch"    : {
+                            "timeFrom" : "13:00",
+                            "timeTill" : "15:00"
+                        }
+                    },
+                    {
+                        "day"      : "Среда",
+                        "timeFrom" : "15:30",
+                        "timeTill" : "22:30",
+                        "lunch"    : {
+                            "timeFrom" : "17:00",
+                            "timeTill" : "19:00"
+                        }
+                    }
+                ]
+            },
+            "address" : {
+                "city"   : "Санкт-Петербург",
+                "street" : "Бульвар Красных зорь, 15",
+                "map"  : [
+                    "59.8913",
+                    "30.4548"
+                ]
+            }
+        }
+    ],
+    "slugs" : {
+        "about"            : { "read" : true },
+        "about-management" : { "read" : true },
+        "about-requisites" : { "read" : true },
+        "about-licenses"   : { "read" : true },
+        "about-contacts"   : { "read" : true },
+        "houses"           : { "read" : true },
+        "houses-list"      : { "read" : true },
+        "houses-info"      : { "read" : true },
+        "houses-history"   : { "read" : true },
+        "services"         : { "read" : true },
+        "documents"        : { "read" : true },
+        "responsibility"   : { "read" : true },
+        "meetings"         : { "read" : true },
+        "debtors"          : { "read" : true },
+        "information"      : { "read" : true },
+        "news"             : { "read" : true },
+        "events"           : { "read" : true },
+        "login"            : { "read" : true },
+        "payments"         : { "read" : true }
+    }
+}

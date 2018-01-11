@@ -1,0 +1,142 @@
+{
+    "links"     : [
+        {
+            "name" : "Госуслуги",
+            "link" : "https://www.gosuslugi.ru/"
+        },
+        {
+            "name" : "Налоговая",
+            "link" : "https://www.nalog.ru/"
+        },
+        {
+            "name" : "Банки.ру",
+            "link" : "http://www.banki.ru/"
+        },
+        {
+            "name" : "Наш Город",
+            "link" : "https://gorod.gov.spb.ru/"
+        },
+        {
+            "name" : "Администрация СПБ",
+            "link" : "gov.spb.ru"
+        }
+    ],
+    "documents" : [
+        {
+            "type"  : "Категория 1",
+            "files" : [
+                {
+                    "name" : "Документ 1",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 2",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 3",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 4",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 5",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 6",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                }
+            ]
+        },
+        {
+            "type"  : "Категория 2",
+            "files" : [
+                {
+                    "name" : "Документ 1",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 2",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 3",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 4",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 5",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 6",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                }
+            ]
+        },
+        {
+            "type"  : "Категория 3",
+            "files" : [
+                {
+                    "name" : "Документ 1",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 2",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 3",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 4",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 5",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 6",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                }
+            ]
+        },
+        {
+            "type"  : "Категория 4",
+            "files" : [
+                {
+                    "name" : "Документ 1",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 2",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 3",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 4",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 5",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                },
+                {
+                    "name" : "Документ 6",
+                    "link" : "https://www.restoclub.ru/uploads/menufile/c/c/c/1/ccc105fe294a61fd29aa075b5a8274e4.pdf"
+                }
+            ]
+        }
+    ]
+}

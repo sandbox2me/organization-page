@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="<%= htmlWebpackPlugin.options.params.lang %>">
+  <head>
+    <title><%= htmlWebpackPlugin.options.params.pageName %></title>
+
+    <meta charset="<%= htmlWebpackPlugin.options.params.charset %>">
+
+    <% for (var link in htmlWebpackPlugin.options.params.meta) { %>
+      <meta name="<%= htmlWebpackPlugin.options.params.meta[link].name %>" content="<%= htmlWebpackPlugin.options.params.meta[link].content %>">
+    <% } %>
+
+    <% for (var link in htmlWebpackPlugin.options.params.favicons) { %>
+      <link href="<%= htmlWebpackPlugin.options.params.favicons[link].href %>" rel="<%= htmlWebpackPlugin.options.params.favicons[link].rel %>" sizes="<%= htmlWebpackPlugin.options.params.favicons[link].sizes %>">
+    <% } %>
+
+    <% for (var link in htmlWebpackPlugin.options.params.links) { %>
+      <link href="<%= htmlWebpackPlugin.options.params.links[link].href %>" rel="<%= htmlWebpackPlugin.options.params.links[link].rel %>">
+    <% } %>
+
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
