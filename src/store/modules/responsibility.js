@@ -18,7 +18,7 @@ const mutations = {
 
 const actions = {
     getResponsibility: ({ commit }) => {
-        Vue.http.get('getResponsibility').then(response => {
+        Vue.http.get('responsibility.json').then(response => {
             commit('setResponsibility', response.data);
         });
     }

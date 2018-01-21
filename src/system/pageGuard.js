@@ -5,7 +5,7 @@ export default (to, from, next) => {
     let slugs = store.getters.organizationInfo.slugs;
     
     if (! slugs) {
-        Vue.http.get('getOrganizationInfo').then(response => {
+        Vue.http.get('organizationInfo.json').then(response => {
             store.commit('setOrganizationInfo', response.data);
             slugs = response.data.slugs;
             checkSlugs();

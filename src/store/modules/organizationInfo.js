@@ -16,7 +16,7 @@ const mutations = {
 
 const actions = {
     setOrganizationInfo: ({ commit }, data) => {
-        commit('setOrganizationInfo', data);
+        commit('organizationInfo.json', data);
     }
 }
 

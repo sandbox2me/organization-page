@@ -35,7 +35,7 @@ const actions = {
 
         let params = { hoiuseId };
 
-        Vue.http.get('getHouseInfo', { params } ).then(response => {
+        Vue.http.get('houseInfo.json', { params } ).then(response => {
             commit('setHouseInfo', response.data);
         }, () => {
             commit('setHouseInfo', false);
@@ -45,12 +45,12 @@ const actions = {
         commit('setHouseInfo', {});
     },
     getUnderServiceHouses: ({ commit }) => {
-        Vue.http.get('getUnderServiceHouseList').then(response => {
+        Vue.http.get('underServiceHouseList.json').then(response => {
             commit('setUnderServiceHouses', response.data);
         });
     },
     getStopedServiceHouses: ({ commit }) => {
-        Vue.http.get('getStopServiceHouseList').then(response => {
+        Vue.http.get('stopServiceHouseList.json').then(response => {
             commit('setStopedServiceHouses', response.data);
         });
     }

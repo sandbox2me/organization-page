@@ -18,7 +18,7 @@ const mutations = {
 
 const actions = {
     getStartPageContent: ({ commit }) => {
-        Vue.http.get('getStartPageContent').then(response => {
+        Vue.http.get('startPageContent.json').then(response => {
             commit('setStartPageContent', response.data);
         });
     }

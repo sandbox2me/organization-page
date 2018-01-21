@@ -20,7 +20,7 @@ const actions = {
     getNewsList: ({ commit }, limit) => {
         let params = { limit };
 
-        Vue.http.get('getNewsList', { params } ).then(response => {
+        Vue.http.get('newsList.json', { params } ).then(response => {
             commit('setNewsList', response.data);
         });
     }

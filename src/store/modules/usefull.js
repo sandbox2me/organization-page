@@ -18,7 +18,7 @@ const mutations = {
 
 const actions = {
     getUsefull: ({ commit }) => {
-        Vue.http.get('getUsefull').then(response => {
+        Vue.http.get('usefull.json').then(response => {
             commit('setUsefull', response.data);
         });
     }

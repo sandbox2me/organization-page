@@ -28,6 +28,9 @@
                 <td class="text-xs-right">{{ props.item.activity }}</td>
             </template>
         </v-data-table>
+
+        {{ underServiceHouses }}
+
     </v-content>
 </template>
 

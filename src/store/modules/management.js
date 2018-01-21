@@ -18,7 +18,7 @@ const mutations = {
 
 const actions = {
     getManagementContent: ({ commit }) => {
-        Vue.http.get('getManagementList').then(response => {
+        Vue.http.get('managementList.json').then(response => {
             commit('setManagementContent', response.data);
         });
     }

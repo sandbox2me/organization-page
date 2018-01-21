@@ -18,7 +18,7 @@ const mutations = {
 
 const actions = {
     getEventsList: ({ commit }) => {
-        Vue.http.get('getEventsList').then(response => {
+        Vue.http.get('eventsList.json').then(response => {
             commit('setEventsList', response.data);
         });
     }
