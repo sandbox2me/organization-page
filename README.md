@@ -1,4 +1,5 @@
 # Страница управляющей организации 
+- [demo](organization-page.rv6.ru)
 
 ## Подготовка компьютера
  - Установить [node.js](https://nodejs.org)
